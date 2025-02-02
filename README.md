@@ -87,12 +87,7 @@ python src/content_summarizer.py
 
 ## 🤝 Contributing
 
-Contributions are welcome! Here's how you can help:
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+We welcome contributions! Please read our CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 
 ## 📝 License
 
