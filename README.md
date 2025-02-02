@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![NLTK](https://img.shields.io/badge/NLTK-3.6.2-green.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0).
 
 > 📚 Transform lectures and meetings into concise, meaningful summaries instantly!
 
